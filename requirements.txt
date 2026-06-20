@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+PyPDF2
+pillow
+openai
+pymupdf
+fastapi
+uvicorn[standard]
+python-multipart

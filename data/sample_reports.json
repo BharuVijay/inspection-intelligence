@@ -1,0 +1,12 @@
+[
+  {
+    "project": "Demo Building A",
+    "report_text": "Inspection found a vertical crack in load-bearing wall. Minor corrosion on beams.",
+    "label": "SYNTHETIC"
+  },
+  {
+    "project": "Demo Building B",
+    "report_text": "Water leakage in basement. Electrical wiring exposed.",
+    "label": "SYNTHETIC"
+  }
+]
