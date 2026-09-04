@@ -1,4 +1,4 @@
-# Quick Start Guide - Inspection Intelligence App
+# Quick Start Guide - Construction Inspection Intelligence App
 
 ## 🚀 Getting Started
 
