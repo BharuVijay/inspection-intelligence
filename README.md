@@ -7,7 +7,7 @@ Your app is now fully enhanced to use all data from the `data/` folder!
 ### Run the App
 
 ```cmd
-cd "C:\Users\ac29392\OneDrive - Goodyear\poc\inspection-intelligence"
+cd inspection-intelligence
 streamlit run app/streamlit_app.py
 ```
 
